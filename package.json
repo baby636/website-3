@@ -21,7 +21,7 @@
     "gulp-sourcemaps": "^1.6.0",
     "gulp-util": "^3.0.7",
     "gulp-webpack": "^1.5.0",
-    "gulp-zip": "^3.2.0",
+    "gulp-zip": "^4.0.0",
     "hogan.js": "^3.0.2",
     "jquery": "~>3.5.0",
     "json-loader": "^0.5.4",
