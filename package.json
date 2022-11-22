@@ -6,7 +6,7 @@
     "test": "htmlproofer ./_site --checks-to-ignore LinkCheck --empty-alt-ignore true --file-ignore ./_site/docs/search.html && htmlproofer ./_site --checks-to-ignore ImageCheck,ScriptCheck --only-4xx true --file-ignore /_site/docs/_modules/,./_site/docs/api/display.html,./_site/docs/contributing.html,./_site/docs/genindex.html,./_site/docs/intro.html,./_site/docs/py-modindex.html,./_site/docs/api/log.html,./_site/hosting_providers/index.html --allow-hash-href true --url-ignore '/twitter.com/'"
   },
   "dependencies": {
-    "browser-sync": "^2.19.0",
+    "browser-sync": "^2.27.8",
     "datatables.net": "^1.10.22",
     "datatables.net-dt": "^1.10.19",
     "del": "^2.2.0",
