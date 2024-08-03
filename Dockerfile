@@ -1,4 +1,4 @@
-FROM python:3.6
+FROM python:3.13.0b4
 
 RUN mkdir /opt/certbot
 WORKDIR /opt/certbot
